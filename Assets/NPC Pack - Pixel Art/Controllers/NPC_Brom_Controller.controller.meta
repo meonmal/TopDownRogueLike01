@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 80226f11a8dc5614c9079a9d41fd88d6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239861
+  packageName: NPC Pack - Pixel Art
+  packageVersion: 1.0
+  assetPath: Assets/NPC Pack - Pixel Art/Controllers/NPC_Brom_Controller.controller
+  uploadId: 571870
