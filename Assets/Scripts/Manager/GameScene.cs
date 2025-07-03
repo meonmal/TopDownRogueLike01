@@ -19,7 +19,6 @@ public class GameScene : MonoBehaviour
     /// </summary>
     private void Awake()
     {
-        // 플레이어 게임 오브젝트 생성
-        GameObject.Instantiate(player);
+
     }
 }
