@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 203c40c51cf4341b3b78ea8437dc0907
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 244001
+  packageName: Slime Pixel Art Monster
+  packageVersion: 1.0
+  assetPath: Assets/sanctum_pixel/slime_package/slime/Sprite/aqua/jump_prepare.anim
+  uploadId: 554999

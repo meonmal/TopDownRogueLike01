@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 99dcd3fed7a544688bf1fee656f1c405
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 244001
+  packageName: Slime Pixel Art Monster
+  packageVersion: 1.0
+  assetPath: Assets/sanctum_pixel/slime_package/slime/Sprite/aqua/hit_1.controller
+  uploadId: 554999
